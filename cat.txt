@@ -1,3 +1,4 @@
 name:lovecat
 age:2
 weight:1.5kg
+address:Ulsan South Korea

@@ -1,0 +1,3 @@
+name:KingTiger
+age:7
+weight:88.5kg
