@@ -1,0 +1,4 @@
+name:sinae
+age:47
+size:167
+weight:59kg

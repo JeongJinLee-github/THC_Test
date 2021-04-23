@@ -1,0 +1,4 @@
+name:jin
+age:56
+size:170cm
+weight:78kg
