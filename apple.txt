@@ -1,2 +1,5 @@
 color:red
+size:big
+age:5
 weight:150g
+price:15$
