@@ -1,0 +1,2 @@
+color:yellow
+weight:130g
