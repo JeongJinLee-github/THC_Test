@@ -1,3 +1,4 @@
 name:happy
 age:3
 weight:8kg
+sex:W
