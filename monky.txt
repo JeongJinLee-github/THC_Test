@@ -1,4 +1,8 @@
 name:hoho
 age:2
 weight:150g
+<<<<<<< HEAD
 sex: M
+=======
+sex: W
+>>>>>>> lovehome
