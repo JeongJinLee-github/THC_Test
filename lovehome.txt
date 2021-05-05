@@ -1,3 +1,5 @@
 contry : Korea
-member : 3
+member : 7
 sex : woman
+edit: branch lovehouse
+editor: JeongJin,Lee
