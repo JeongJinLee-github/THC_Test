@@ -2,6 +2,8 @@ contry : Korea
 member : 5
 sex : man
 edit : in lovehome branch
-editor :JJ,Lee
+editor :JeongJin,Lee
 kiss
 sex
+love : 2
+
