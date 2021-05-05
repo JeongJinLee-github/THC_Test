@@ -1,0 +1,4 @@
+name:happywolf
+age:5
+weight:8kg
+sex:W
