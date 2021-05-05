@@ -1,5 +1,7 @@
 contry : Korea
 member : 5
-sex : woman
+sex : man
 edit : in lovehome branch
 editor :JJ,Lee
+kiss
+sex
