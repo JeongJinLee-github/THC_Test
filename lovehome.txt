@@ -1,0 +1,3 @@
+contry : Korea
+member : 3
+sex : woman
