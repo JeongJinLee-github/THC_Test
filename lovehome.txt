@@ -2,4 +2,5 @@ contry : Korea
 member : 5
 sex : woman
 edit : in lovehome branch
-editor :JJ,Lee
+editor :JeongJin,Lee
+love : 2
