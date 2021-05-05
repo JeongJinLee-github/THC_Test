@@ -1,3 +1,4 @@
 name:hoho
 age:2
 weight:150g
+sex: W
